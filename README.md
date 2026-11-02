@@ -13,3 +13,8 @@ for the code, its documentation and its setup guide.
 Every comment, branch, commit and pull request written by the agent appears
 under the agent's own GitHub account, and every message it posts on GitHub
 begins with a line saying it is by an automated agent.
+
+## Contributing
+
+Contributions go through pull requests, and CI must pass before a pull
+request can be merged.
